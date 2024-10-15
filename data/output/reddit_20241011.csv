@@ -1,0 +1,315 @@
+id,title,selftext,score,num_comments,author,created_utc,url,upvote_ratio,over_18,edited,spoiler,stickied
+1g0gidy,Conversation I had with a data analyst trying to meaningfully join marketo’s api data to anything else in our database,,93,12,meyerovb,2024-10-10 11:22:42,https://i.redd.it/4qday9fgywtd1.jpeg,0,False,False,False,False
+1g0hrrf,"Since everyone is on the AI hype train, what are some of the must have skills for data engineers in the AI/ML space nowadays?","The title, basically. Fine-tuning LLMs?",63,27,adritandon01,2024-10-10 12:35:45,https://www.reddit.com/r/dataengineering/comments/1g0hrrf/since_everyone_is_on_the_ai_hype_train_what_are/,0,False,False,False,False
+1g0twsl,What do you actually use Airflow for?,Is 99% of use cases the orchestration of data piplines or have you seen other use cases like MLOps? Or some office automation stuff?,50,37,Temporary_Basil_7801,2024-10-10 21:36:33,https://www.reddit.com/r/dataengineering/comments/1g0twsl/what_do_you_actually_use_airflow_for/,0,False,False,False,False
+1g0q67n,Where do you deploy a data orchestrator like Airflow?,I have a dbt process and aws glue process and I need to connect them using an orchestrator because one depends on the other. I know of Airflow or Dagster that one can use but I can't make sense of where to deploy it? How did it work on your projects?,20,28,Temporary_Basil_7801,2024-10-10 18:52:47,https://www.reddit.com/r/dataengineering/comments/1g0q67n/where_do_you_deploy_a_data_orchestrator_like/,0,False,False,False,False
+1g0ry30,Struggling to Transition Into Data Engineering After a Year of Unemployment – Seeking Advice,"I got laid off as a Python developer where I worked for 2 years writing Python script of a major circuit board industry. I have a Bs in manufacturing engineering and a masters in Data science . The masters was pursued when I got laid off so I have been out of work a year now. 
+I want to apply to work as a data engineer. I have decent skills in SQL and Python. Also decent skills in pandas, airflow, spark. 
+But I am having a hard time finding a job in data engineering. The positions I been approached by recruiters is all senior data engineer positions which I really don’t have the skills. I want to start as a junior or may be a mid level data engineer but I have been applying and not getting any response. 
+Why? ",10,5,himalayan_dev,2024-10-10 20:10:35,https://www.reddit.com/r/dataengineering/comments/1g0ry30/struggling_to_transition_into_data_engineering/,0,False,False,False,False
+1g0nfks,What is your stack and typical day to day work as a Data Engineer? Is there much opportunity for Data Engineering as a contractor/consultant as opposed to full-time?,Just some questions to help me shape my pursuits in Data Engineering.,5,6,makelefani,2024-10-10 16:54:01,https://www.reddit.com/r/dataengineering/comments/1g0nfks/what_is_your_stack_and_typical_day_to_day_work_as/,0,False,False,False,False
+1g0trxe,Airflow vs Dagster,"If you've worked with both Airflow and Dagster, what would you say are the key differences between the two? In what cases would you prefer one over the other?",7,0,Temporary_Basil_7801,2024-10-10 21:30:21,https://www.reddit.com/r/dataengineering/comments/1g0trxe/airflow_vs_dagster/,1,False,False,False,False
+1g11ppr,Does Dataform have macros?,"I know that dbt has [macros](https://docs.getdbt.com/docs/build/jinja-macros) to simplify data modeling, but does Dataform offer a similar feature? I couldn’t find much information about it online. Does anyone have experience with this?  
+For example, the following dbt macro screenshot is from [here](https://www.restack.io/docs/dbt-core-knowledge-dbt-core-macro-examples)
+
+https://preview.redd.it/tj177gf522ud1.png?width=1621&format=png&auto=webp&s=75501fdb90d1bdd755c5a443281fc867ad096659
+
+",3,2,Stephen-Wen,2024-10-11 04:27:30,https://www.reddit.com/r/dataengineering/comments/1g11ppr/does_dataform_have_macros/,0,False,False,False,False
+1g10e33,How much development does data engineering have,"I(1YOE) have been working with ADF and snowflake for the past year, things have become quite monotone. I just want to develop stuff but ADF does not have a lot of coding, and work rate is quite inconsistent with me not having any work at all some days. I feel frustrated, I want more, I want to work with AWS glue and Databricks and expand my skills more but company will not sponsor that. I can do so much more but I am not able to contribute on the level I know I can. 
+Is this how it's always going to be in data engineering?",3,5,youmadafqa,2024-10-11 03:08:54,https://www.reddit.com/r/dataengineering/comments/1g10e33/how_much_development_does_data_engineering_have/,0,False,False,False,False
+1g0x9o7,Career Changes,"I have a background in sports, holding a master’s degree in Physical Education and working as a soccer coach. Recently, I’ve been exploring a career change and have become particularly interested in data engineering or a related field where I could learn now and work on a computer.
+
+Although I have no formal background in this area, I am comfortable with computers and consider myself a fast learner. I’m eager to understand the key skills and knowledge needed for this field, and I would greatly appreciate any guidance you can offer. Specifically, I am looking for recommendations on online courses, certifications, or resources that can help me develop the necessary skills to begin this new career path.
+
+Any insights you could provide, especially for someone starting fresh in this area, would be extremely helpful.",4,5,diogoferrazg,2024-10-11 00:20:27,https://www.reddit.com/r/dataengineering/comments/1g0x9o7/career_changes/,0,False,False,False,False
+1g10vgr,How to break into DE in 5 years?,"I’m just now finishing college in January 2025 and starting a new grad FTE role as a BI analyst on an internally facing team at a tech company. 
+
+If you were in my shoes how would you go about breaking into data engineering?
+
+My current path I was thinking was a mixture of lateral movements or job hops?(timeline below?)
+
+BI(2yrs) -> DA(1-3 yrs) -> DE?
+",4,5,MPL206,2024-10-11 03:36:30,https://www.reddit.com/r/dataengineering/comments/1g10vgr/how_to_break_into_de_in_5_years/,0,False,False,False,False
+1g10bfi,No Junior or Associate job openings,"Why is every company now looking only for Principal, Staff or Senior DE??
+
+LinkedIn, Indeed everywhere. All JD says “Must have 5+ years of Experience in everything”
+Is there a better platform that I need to looking at?
+I have 6 years of experience but only 3 of them is DE where I built pipelines. And being in IT HR department, I haven’t worked with Terabytes worth of data and that always has been thrown against me by recruiters, as if every company on earth has that much data with every department",3,5,CuriousSwitch7268,2024-10-11 03:04:42,https://www.reddit.com/r/dataengineering/comments/1g10bfi/no_junior_or_associate_job_openings/,0,False,False,False,False
+1g0z96n,What do I need to know to build a database?,"My boss has tasked me with “building a database”. 
+
+I don’t fully understand what the customer needs it for and when I asked my boss it seems they don’t know either, my guess is we’re doing this unsolicited or someone high up said “that’d be cool” and now we’re doing it.
+
+My experience with data engineering is not wide - I’m one of the only people in my company who can build a comprehensive data model in power bi, and have constructed ETL pipelines for those dashboards in the past. I know read operations in SQL, and the math behind relational databases/Codd/keys etc. I have no clue how to build a database, but I know what they want to have in there (schedule data) would require some object-oriented functionality (maybe… I think… I learned through google so I might be super wrong haha)
+What would I need to “build a database” without requirements? Looking for something I can either get started with because I have no idea, or be able to talk myself out of this task
+
+Also I have a math degree, everything I know about information science and databases comes from google",3,15,DietCokeDeity,2024-10-11 02:06:21,https://www.reddit.com/r/dataengineering/comments/1g0z96n/what_do_i_need_to_know_to_build_a_database/,0,False,False,False,False
+1g0io5x,API connectors and API job orchestration ,"Hey y'all,
+
+I've been working on getting data into my data warehouse from various apis. I've pretty much written my own pull jobs to do this. It's definitely a non trivial process to write a job orchestrator to pull data and track runs, then display this data in a friendly web UI. I've looked at tools like data factory, but to be honest there is room to be desired when pulling from apis (copy activities with SQL work great however) 
+
+Just curious how you are all handling this? Do you have some homebrewed job orchestrator like me just for pulling API data in? Or are you using a platform like databricks or data factory or airflow? How to you all handle real time ingestion (or near real time) and manage costs for these services if so? It seems super expensive if I need to run jobs 24/7 in data factory, don't get me started on data bricks. I've looked into airflow on prem, but we're a windows shop running IIS and it seems that would be quite a pain to get running.
+
+Just curious how is rest of the industry is handling this problem? ",3,2,soricellia,2024-10-10 13:21:03,https://www.reddit.com/r/dataengineering/comments/1g0io5x/api_connectors_and_api_job_orchestration/,0,False,False,False,False
+1g13pi2,ADF CICD Release,"Hi Everyone,
+
+My project uses Azure Data Factory with three environments: Dev, UAT, and Prod. When deploying ADF via ARM templates through Azure CI/CD to a different environment, we manually update 
+
+1. ARM template in release pipeline 
+2. The parameters within ADF to match the UAT values. 
+
+This process is time-consuming, taking about an hour due to the large number of pipelines.
+
+Is there a more efficient way to automate the parameter updates during deployment, to save time and reduce manual effort?",2,1,Curious_Gur9574,2024-10-11 06:44:24,https://www.reddit.com/r/dataengineering/comments/1g13pi2/adf_cicd_release/,0,False,False,False,False
+1g139a2,Azure Data Engineer Certification -  Course Recommendations ,"I know everybody hates on Certifications (me too) but my Company desperately wants to waste money. We have 13K of unused Training Budget on the team. I have done Microsoft Certs in the past just learning for the exam which does not really make you an expert.
+
+So what is real good Azure Data Engineering Course where you actually get hands on stuff to do projects etc.? Price does not matter. Preferably online. I can do it during work so no matter if its a couple of weeks.",2,3,Waldchiller,2024-10-11 06:11:29,https://www.reddit.com/r/dataengineering/comments/1g139a2/azure_data_engineer_certification_course/,0,False,False,False,False
+1g0ztsy,"I am able to do Orchested Data Pipelines , am I ready at least as a JR DE?","Hi to all my engineers,
+
+I’ve been working on a data engineering project over the past few months, and I’d love to get some feedback on whether I’m ready for a Junior Data Engineer role. Here’s a breakdown of the journey I’ve taken and the tools I’ve been using:
+
+1. Setting up my environment
+
+	•	Virtual Environment: I started by setting up a Python virtual environment to keep dependencies isolated. This was important for maintaining a clean workspace for the project.
+	•	Airflow Installation: Installed Apache Airflow inside the virtual environment to manage and orchestrate the data pipeline.
+	•	PostgreSQL and pgAdmin: Installed PostgreSQL as the database for storing the processed data. I also set up pgAdmin for easy management and querying of the database.
+	•	Docker: I utilized Docker to containerize my services, such as Airflow and PostgreSQL, making everything portable and easier to manage.
+
+2. Learning to work with DAGs in Airflow
+
+I set up an Airflow DAG (Directed Acyclic Graph) to manage the flow of tasks in my data pipeline. Here’s a brief overview of the tasks I designed:
+
+	•	Task 1: Extract Data (Amazon Bestsellers)
+I created a Python script that fetches data from Amazon using requests and BeautifulSoup. The script scrapes information about best-selling books (titles, authors, prices, and ratings), which is the core data for the pipeline.
+	•	Task 2: Transform Data
+After extracting the data, I cleaned it using pandas. This involved removing duplicates and ensuring consistency in the format of the data. The cleaned data is then stored temporarily within the pipeline using Airflow’s XCom feature.
+	•	Task 3: Load Data (PostgreSQL)
+The final step in the DAG loads the cleaned data into a PostgreSQL database. I used Airflow’s PostgresOperator and PostgresHook to insert the data into a table, which I created dynamically if it didn’t already exist.
+
+3. Tools and Technologies Used:
+
+	•	Python: Core scripting language for data extraction, transformation, and orchestration.
+	•	Airflow: Used for orchestrating the entire pipeline. I designed a DAG with multiple tasks, and Airflow handles dependencies and scheduling.
+	•	PostgreSQL: Database to store the final processed data.
+	•	pgAdmin: GUI tool for managing the database.
+	•	Docker: Used to containerize Airflow and PostgreSQL, ensuring consistent environments.
+	•	PySpark: I’ve worked on using PySpark in previous projects to handle larger datasets in distributed environments, although this specific pipeline doesn’t involve Spark yet.
+
+4. Handling Dependencies and Errors
+
+I configured task dependencies in Airflow, ensuring that the data extraction task runs first, followed by data transformation, and finally the loading into the database. I also set up retries in case of task failures and error handling to manage cases like API failures or database connection issues.
+
+5. Future Enhancements
+	•	I plan to incorporate S3 and AWS Glue into my pipelines to store and process data at scale.
+	•	I’m also working on improving my knowledge of CI/CD for better deployment strategies.
+
+🫣Questions:
+
+	•	Do you think this project and skillset would make me competitive for a Junior Data Engineer role?
+	•	Are there any key technologies or skills that I should focus on next to improve my chances in the data engineering field?
+
+I’d really appreciate any feedback or advice from those who’ve been in a similar position. Thanks!",2,2,LongCalligrapher2544,2024-10-11 02:37:31,https://www.reddit.com/r/dataengineering/comments/1g0ztsy/i_am_able_to_do_orchested_data_pipelines_am_i/,0,False,False,False,False
+1g0vyfk,Looking for free bulk image OCR?,"Hello, I have thousands of image files that all follow the same format, and I'd like to extract the data from about 20 fields in the images. I currently have 500 images but anticipate gathering many more. Do you know of any free image OCRs with high accuracy and that allow customization of which fields of pixels on the image to pull from? I'll be compiling all of the data into a CSV and there's too much data to split it myself, which is why it's important I find an OCR where I can specify which pixels on the image to look at for each data point. Thank you in advance!",2,2,yaggirl341,2024-10-10 23:13:29,https://www.reddit.com/r/dataengineering/comments/1g0vyfk/looking_for_free_bulk_image_ocr/,0,False,False,False,False
+1g0vqkt,Thinking Through Designing Your Lakehouse Architecture (Choosing Table Format and Catalog),"I posted this originally as a comment in a thread about ""What's the best format"" but figured the conversation about how to setup a framework for decision making was worth it's own thread. Please comment with your own thoughts on considerations when architecting a lakehouse.
+
+""It's not so much about best, it about what your hard requirements and which one satisfies them the best. My opinion is that Iceberg will likely come out on top in most cases, but there are sets of requirements in where it doesn't. List out your hard requirements and back into your answer. Here are some questions to help develop those requirements.
+
+1. Will data primarily be accessed via SQL or Python?
+2. What tools do your currently use and what do they support?
+3. What tools you plan on adding and what do they support?
+4. How much infrastructure do you want to manage vs using a SaaS solution?
+5. How important is it to you to have lots of vendors options for table management?
+6. Does the partitioning of your tables change frequently?
+
+Once you choose a table format, then that leads to a secondary question of a catalog to manage portable governance of those tables
+
+1. Iceberg (Polaris, Nessie, Gravitino)
+2. Delta (Nessie)
+3. Hudi (none, but Onehouse can provide many of the services a catalog would)
+
+* All three formats can use Hive and AWS Glue as a catalog.
+* All the Iceberg Specific Catalogs mentioned support the Apache Iceberg REST Catalog spec which means the same client implementations can be used for all three giving them wide tooling support, and that spec is evolving to open up some interesting possibilities down the road very worth following.
+
+I have lots of blogs on table formats particularly apache iceberg at [dremio.com](http://dremio.com/)/blog and [datalakehousehub.com](http://datalakehousehub.com/)/blog""
+
+Here are some unique considerations:
+
+* Hudi is usually well known for it's streaming write performance, and this is in part due to the ""delta streamer"" which is a service that optimizes the data as you ingest in parallel, this would be something you'd have to maintain unless using Onehouse to do it for you. For Iceberg, services like Upsolver can provide a similiar ""optimize as it arrives"" functionality.
+* If your using Databricks for most things, Delta Lake is very much integrated into a databricks services so a typical default as databricks features enhance using Delta Lake (you can find similar Iceberg features across a variety of vendors, at least increasingly so). you can use the other formats with databricks but requires more configuration.
+* On the consumption side if you are using Dremio, you can use Delta or Iceberg, but Iceberg gets several powerful enhancements when using Dremio's reflections features (simplest way to think of this is as Materialized Views++) where reflections on iceberg tables will refresh when the data changes and refresh incrementally allowing fast, fresh and cheap acceleration (these iceberg specific enhancements were introduced in the last few months).
+* You can work across formats partially either using Unity Catalogs Uniform Feature, which exposes a rest catalog interface for reading a parallel ""read-only"" set of Iceberg metadata for certain delta tables subject to some limitations or with Apache XTable which creates a set of metadata around your existing data files from any format to any format. Keep in mind the best part of many of these formats is how they organize the data at write time, so you lose a lot of that when converting vs natively writing to X or Y format.",2,0,AMDataLake,2024-10-10 23:02:33,https://www.reddit.com/r/dataengineering/comments/1g0vqkt/thinking_through_designing_your_lakehouse/,0,False,False,False,False
+1g0uj52,Job title vs. years of experience vs. salary in terms of career growth?,"In the middle of last year, I was on track to be promoted at my last company to senior engineer.  However, I ended up taking another job that was below senior level that payed much more.
+
+
+
+While I feel like I have the years of experience and leadership experience to be a senior, I sometimes feel stuck in my current role when more senior engineers and leadership don't listen to my ideas.
+
+
+
+
+Has anyone else moved down a level and missed their old job?  Do I just forget about career advancement and just patiently wait for the economy improve before applying to high level engineering roles?",2,2,level_126_programmer,2024-10-10 22:04:53,https://www.reddit.com/r/dataengineering/comments/1g0uj52/job_title_vs_years_of_experience_vs_salary_in/,0,False,False,False,False
+1g0u1du,"I want to build a data integration low-code app, but it needs to be fast .please feedback","Hello everyone,  
+At my workplace, we use **Airbyte** and **DBT**, and in some parts, **Talend**, and they are all extremely slow.  
+The latter is also very expensive to run, especially on Kubernetes clusters. It's super costly because bringing up servers in **Java** and **Python** is quite slow.
+
+In short, there are many issues, and it's very expensive.  
+I thought to myself, what if there was a tool written in **Go** or **C++** that efficiently utilizes the hardware it runs on?  
+It would likely cost less for the company to run and would probably be faster in its specific domain—not related to connecting to data sources like databases or external APIs.
+
+What would you like to see in such a tool or any parts of existing tool in your pipeline ?   
+Are you also suffering from these issues?  
+  
+Thanks!",2,4,umen,2024-10-10 21:42:21,https://www.reddit.com/r/dataengineering/comments/1g0u1du/i_want_to_build_a_data_integration_lowcode_app/,0,False,False,False,False
+1g0k8us,Software Engineer career change to Data Engineering [advice],"Hello! Need some advice on a potential career change. 
+
+I have 25 years experience in software development (mostly microsoft and azure in the last 8 years), various roles from developer, software architect and now for the last 6 years CTO for a small company (so I continue to develop anyway). 
+
+I'm more and more looking into data engineering as my current projects are more and more related with data and big data. I work with several different types of orchestrations but I continue to take a software development approach on the ETL phase. Old habits die hard. 
+
+Did anyone here had that type of career change, is it doable?  
+
+I'm looking to know if there is anyone here that made that change and what type of skills/brush up should I focus on, and in case of a full on career change how do one market himself to be attractive for a company? What type of roles should I look for? 
+
+  
+Thank you in advance.
+
+  
+",2,2,marvin_pt,2024-10-10 14:34:36,https://www.reddit.com/r/dataengineering/comments/1g0k8us/software_engineer_career_change_to_data/,0,False,False,False,False
+1g15bwv,Looking for Help with Data Pipeline Optimization & Machine Learning Challenge,"Hey Reddit! 👋
+
+I'm working on a technical challenge for a **Data Engineer** role and looking for someone with experience in **data pipelines**, **cloud services (Azure preferred)**, and **machine learning** to help me brainstorm solutions.
+
+The challenge involves optimizing a **data integration pipeline** and improving the lifecycle of an **ML model**. It includes tasks like:
+
+* Identifying and addressing bottlenecks in the current architecture.
+* Implementing security measures for private data integration.
+* Improving a machine learning model's retraining, deployment, and monitoring processes.
+
+If you have expertise in **Azure**, **data engineering**, or **ML model management**, I'd love to connect and discuss ideas! Feel free to drop a comment or DM me if you're interested in collaborating on this.
+
+Thanks so much! 🙌",2,1,Critical_Anything_70,2024-10-11 08:50:54,https://www.reddit.com/r/dataengineering/comments/1g15bwv/looking_for_help_with_data_pipeline_optimization/,1,False,False,False,False
+1g14fmt,Dbt core vs Dbt cloud,"We currently use dbt core and airflow for orchestration of our jobs. We spin a k8s pod with airflow k8s operator and run dbt core commands in it.
+
+We want to implement data mesh in our system. Can we keep using airflow and the dbt-core approach to orchestrate jobs just like before but use the dbt cloud for documentation and cloud ide for development and raising prs? is this approach feasible?
+
+How is ",1,0,Character-Unit3919,2024-10-11 07:40:36,https://www.reddit.com/r/dataengineering/comments/1g14fmt/dbt_core_vs_dbt_cloud/,0,False,False,False,False
+1g115i5,SCD2 on SCD2?,"Has anybody ever faced a problem where the customer manages it's SCD2 from the source which is not properly articulated with lots of invalid scenarios such as VALID_FROM > VALID_TO or many other stupid cases. We tried to correct these SCD values but partitioning based on PKs and deriving our own SCDs referencing VALID_FROMs from sources. But, now we are bumped up with hell lot of issues with source history is not matching with our scd tables.
+
+#scd2",1,0,turingmachince,2024-10-11 03:53:26,https://www.reddit.com/r/dataengineering/comments/1g115i5/scd2_on_scd2/,0,False,False,False,False
+1g0w09q,"[Tutorial] Exploring Data Operations with PySpark, Pandas, DuckDB, Polars, and DataFusion in a Python Notebook",,1,0,AMDataLake,2024-10-10 23:16:03,https://amdatalakehouse.substack.com/p/exploring-data-operations-with-pyspark?r=h4f8p,0,False,False,False,False
+1g0v2vu,Dagster-docker,"Is there a Dagster user here who could kindly explain the proper way to define all its components and build pipelines? I’m not sure if I’ve just gotten lost in its management options, if it’s really as flexible as it seems, or if the documentation is simply unclear to me. I wanted to create a few simple ETL projects and master Dagster in a local environment. I installed it in a Docker container to isolate it from other tools in the project directory, using an example from the official GitHub repository. That’s where the complications began.
+
+I went through the documentation and examined every file in the GitHub repo. Everything seemed standard: YAML compose files, workspace, Dockerfile, etc. But the most confusing file for me is repo.py, where, if I understand correctly, pipelines are defined using the necessary components like OP, GRAPH, job, asset, schedule, and sensors.
+
+So, I ran the containers with docker-compose up, and the web UI worked at localhost:port. This is where things started getting tricky. The next logical step was to define the pipeline in an IDE. However, the structure of the Dagster directory and pipeline definition files looks completely different in a local environment without Docker, as explained in the documentation and guides, where everything is based on assets, as shown in the tutorials or Dagster University. After installing Dagster in a Docker container, the structure and pipeline definition seem entirely different. As I mentioned, everything is defined in a single repo.py file, which seems a bit unbelievable—everything in one file?
+
+In the guides from the documentation and Dagster University, they teach a different practice: a different directory structure, using many separate files, building pipelines around assets, and keeping everything organized. Each component has its own folders, and there’s a command to move the defined components to the web UI. Everything is grouped and well-organized, whereas, with Docker, everything seems to be in one file. As I understand it, this is determined by the gRPC server, which reads the defined pipelines only from the repo.py file.
+
+Could someone explain how this should be done properly with Docker? Do we really define everything in the repo.py file, build the project directory however we like, and then divide the smaller parts of the code into Dagster components, referencing them in repo.py? Or do we build the pipeline from these smaller parts in repo.py and load it all with the docker-compose --build command? Is Dagster so flexible that we can organize our directory however we want and manage pipeline building, with no single strictly defined practice for it?
+",1,0,ur64n-,2024-10-10 22:30:37,https://www.reddit.com/r/dataengineering/comments/1g0v2vu/dagsterdocker/,0,False,False,False,False
+1g0uzlk,Which Database Platform(s) Do You Currently Use on AWS?,"We are a seed-funded startup looking for some answers to narrow our GTM. In this particular poll, I’m interested in understanding which database platforms data scientists and data engineers are using on AWS, especially in the context of **IO-intensive applications** like OLTP and OLAP databases. 
+
+Your feedback will guide how we approach **storage architecture optimizations** like **high write throughput**, **write-ahead log (WAL) performance**, and **low-latency NVMe SSD caching**.
+
+This is particularly important as we explore features like **adaptive tiered storage** (e.g., from local NVMe to Amazon S3), **thin provisioning**, and **automated data placement** based on IO characteristics. 
+
+[View Poll](https://www.reddit.com/poll/1g0uzlk)",2,2,SubstantialAd5692,2024-10-10 22:26:12,https://www.reddit.com/r/dataengineering/comments/1g0uzlk/which_database_platforms_do_you_currently_use_on/,0,False,False,False,False
+1g0tt0b,airflow for a content generation pipeline,"Would airflow be an appropriate use case for a content generation pipeline or would that be overkill? This would include downloading videos from a source, cropping and trimming them, overlaying graphics, and uploading to different sites. 
+
+Are there tools that make more sense for this in terms of passing around data / doing audio and video file manipulation or it this okay? 
+
+Curious of people's thoughts, thanks.",1,2,Global_Ad_7359,2024-10-10 21:31:42,https://www.reddit.com/r/dataengineering/comments/1g0tt0b/airflow_for_a_content_generation_pipeline/,0,False,False,False,False
+1g0st39,High volume Kafka streams in Pyflink,"Hi all.
+
+ I have a high volume Kafka stream (2.3 million records per minute). I’m using flink to decode the event stream to a (signal_key,signal_value) pair and then using a keyed process function on the decoded stream to return aggregations for every signal_key to every 30 seconds.
+
+I’m seeing a lot of backpressure on my decoded events stream, where the flink ui is showing it only returning 85000 records per minute. Not sure if I should add parallelism or increase memory/cpu to mitigate the issue. 
+My worry with parallelism is if the keyed process function is parallelized, if the aggregated values will be incorrect, since it will only aggregate values from that key in a specific thread.
+
+I was also wondering if adding a filter alleviates back pressure since I don’t need every event in my stream.
+
+Any help is appreciated, thanks!
+",1,2,raikirichidori255,2024-10-10 20:47:50,https://www.reddit.com/r/dataengineering/comments/1g0st39/high_volume_kafka_streams_in_pyflink/,0,False,False,False,False
+1g0siju,Seeking Career Advice in Data Engineering,"Hello everyone,
+
+I have a question about the evolution of my career. I've been working in various operations departments and, over the past year, I've learned to use Python and SQL, and I hold a certification in AWS for Data Engineering.
+
+Currently, I’m transitioning from more operational tasks to technical task. I'm moving and transforming data to deliver it through various SFTPs. I’m also extracting data from different sources and sending it to our app via API requests. I’m creating pipelines to gather information at specific times for users who need it daily.
+
+My concern is that while my work aligns with the responsibilities of a Data Engineer, many job postings I see seem to focus heavily on delivering data for analytics. I feel a bit lost in this regard.
+
+If anyone could provide guidance or recommend potential career paths, I would greatly appreciate it. What I'm doing now is incredibly enjoyable for me!
+
+Thank you!",1,3,GoldGrand7479,2024-10-10 20:35:14,https://www.reddit.com/r/dataengineering/comments/1g0siju/seeking_career_advice_in_data_engineering/,0,False,False,False,False
+1g0ps52,Data consultancy vs Big bank,"Hi All,
+
+I need help choosing an offer. One is data & AI consultancy company called artefact. They are offering senior data engineer role. Other is Citi bank who are offering similar role and compensation.
+I am coming from working on internal data platform in a established MNC.
+What will be the better career choice in terms of learnings and career growth as well as work life balance?
+Would really appreciate your suggestions as I am pretty confused.",1,3,BowlerLow,2024-10-10 18:36:21,https://www.reddit.com/r/dataengineering/comments/1g0ps52/data_consultancy_vs_big_bank/,0,False,False,False,False
+1g0oo10,Can I be a Data Engineer with a BBA in Information Systems in Today’s Job Market? ,"As the title says, I'll be graduating in December 2024 with a BBA in Information Systems. My coursework has covered programming in Python, Java, SQL, and little bit knowledge of Cloud Computing. I initially aimed to become a Data Analyst, but over time, I've become more interested in transitioning into Data Engineering.
+
+**My main question is**: Can a BBA in Information Systems still land me a job as a Data Engineer, or should I focus on additional certifications and learning paths?
+
+For context, I’ve completed the Google Data Analytics Certificate on Coursera and I'm planning to start the AWS Certified Cloud Practitioner certification, but I’m not sure if it’s the right move.
+
+I’ve seen some posts here from people who landed Data Engineering jobs without relevant degree, Could you share your experience",0,5,Alpha_SG,2024-10-10 17:48:22,https://www.reddit.com/r/dataengineering/comments/1g0oo10/can_i_be_a_data_engineer_with_a_bba_in/,0,False,False,False,False
+1g0j3co,Concatenate in .withColumn makes the whole column in all row empty? Driving me crazy,"HI guys,
+
+  
+So I am running this code in Databricks/Pyspark: 
+
+    .withColumnRenamed(""owner_emailAddress"", ""Owner"")
+
+  
+And when I run this code I can successfully still see all emailaddresses.
+
+  
+But when I run  this code afterwards:
+
+    .withColumn(""Owner"", col(""Owner"") + lit("".newuat""))
+
+After I run this code it changes the column type to double (for no reason?!) And it makes all values in the column Owner empty.
+
+
+
+i don't understand why, I have been searching this issue on the internet but it seems no-one is experiencing it.
+
+  
+I have even tried to force cast it to string, and then the column changes to string type but it still stays empty:
+
+    .withColumn( ""Owner"", (col(""Owner"").cast(""string"") + "".newuat"").cast(""string"")
+
+  
+Any help or suggestions please?",1,3,kbic93,2024-10-10 13:41:44,https://www.reddit.com/r/dataengineering/comments/1g0j3co/concatenate_in_withcolumn_makes_the_whole_column/,0,False,False,False,False
+1g0icke,Tool to query different DBMS,"Hy,
+
+my need is to make a select that joins tables from a MSSQL Server and an IBM System i DB2 to create dashboards.
+
+Now I use a Linked server in SQL Server that points to the DB2 on System I with ODBC, but it's painful slow.
+
+I tried Cloudbeaver that uses the JDBC driver and it's very fast, but I cannot schedule queries or writing dashboards like in Metabase or Redash.
+
+Metabase has a connector for both MSSQL and DB2forSystem I, but it doesn't support queries across two different DBMS.
+
+Redash seems to support queries across different datasources, bit it hasn't a driver for DB2 for System I.
+
+I tried to explore products like Trino, but they can't connect to DB2 for System I.
+
+I look for an open source tool like Metabase that can query acroos different DBMS accessing them via my own supplied JDBC Drivers and runs in docker.
+
+Thx !",1,7,Diesis73,2024-10-10 13:05:29,https://www.reddit.com/r/dataengineering/comments/1g0icke/tool_to_query_different_dbms/,0,False,False,False,False
+1g0vfyi,Unified data model approach for combining ERPs ,"Hello - the client I work for has been using the E1 ERP since long time ( ~20 yrs ) and started using SAP in recent past . The SAP environment is active for only one region of business and other regions to follow through in coming months. So, until full transition happens the direction is to report from both ERPs together. This, we were asked to come up with a unified data model approach. While we have done that , key challenges we are trying to answer 
+
+1. Dimension data - There are scenarios where we  need to pull in  attributes from both ERPs (ex: Products)
+
+2. Dimension data - There are scenarios where we have to union to information from both ERPs. We consider only common attributes for union operation. 
+
+3. Master data - there are scenarios where we translate one ERP language to another ERP language using mappings . Note that, this would be handled with MDM solution in future 
+ 
+3. Transaction data - The transact data need to be a union from both ERPs. We consider only common attributes for union operation. (ex: Sales Orders , Billings etc, ) 
+
+
+So the question we have is , since we are union transaction data and (kind of ) add attributes to dimension data , how would the reference keys needs to be designed ? Meaning, for example, how Sales Orders ( from both ERPs after union ) are made sure to refer to appropriate products data . Can someone provide recommendations to solve this problem ? And any other potential problems we might need to consider ? Also, any good reference material that could explain these scenarios would be really helpful 
+
+Appreciate the help from the community . Thanks and Cheers. ",0,1,ElephantEducational5,2024-10-10 22:48:27,https://www.reddit.com/r/dataengineering/comments/1g0vfyi/unified_data_model_approach_for_combining_erps/,0,False,False,False,False
+1g0iaml,"Does anyone know of Leetcode style SQL Leetcode Questions that test UDFs and Stored Procedures (hacent found in hacekrrank, leetcode or sqlpad.io) also any cheatsheets or sets of questions for more advanced concepts normalizations, clustered index, partitioning, distributed dbs (potgresql/mssql)","Does anyone know of Leetcode style SQL Leetcode Questions that test UDFs and Stored Procedures (hacent found in hacekrrank, leetcode or sqlpad.io) also any cheatsheets or sets of questions for more advanced concepts normalizations, clustered index, partitioning, distributed dbs (potgresql/mssql)",0,0,juan_berger,2024-10-10 13:02:52,https://www.reddit.com/r/dataengineering/comments/1g0iaml/does_anyone_know_of_leetcode_style_sql_leetcode/,0,False,False,False,False
