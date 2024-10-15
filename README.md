@@ -18,6 +18,8 @@ This project involves building a data pipeline using the Reddit API to collect a
      - Amazon Athena
      - Amazon Redshift
 4. Orchestration Tool - Airflow
+5. Docker
+
 
 ## Links
 **Getting started with Reddit API:** https://www.reddit.com/r/reddit.com/wiki/api/
